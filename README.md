@@ -9,10 +9,9 @@ This is a draft pet project for testing Generative AI on different software engi
 
 ## Dependencies
 
-- Docker
-- Docker Compose
+- Rancher
 
-The mentioned dependencies can be installed using the official documentation [here](https://docs.docker.com/compose/install/).
+You can install Rancher by following the [Rancher Quick Start Guide](https://ranchermanager.docs.rancher.com/pages-for-subheaders/quick-start-guide)
 
 ## Setup and Running the Application
 
