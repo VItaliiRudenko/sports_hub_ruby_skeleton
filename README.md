@@ -15,7 +15,7 @@ You can install Rancher Desktop by following the [Installation Guide](https://do
 
 Ensure to select "docker (moby)" for docker-compose compatibility
 
-In case of compatibility isseus Administrative Access might be required: Rancher Desktop -> Preferences -> Application -> Administrative Access
+In case of compatibility issues Administrative Access might be required: Rancher Desktop -> Preferences -> Application -> Administrative Access
 
 ## Setup and Running the Application
 
