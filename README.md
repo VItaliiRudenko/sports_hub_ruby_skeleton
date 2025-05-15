@@ -11,7 +11,11 @@ This is a draft pet project for testing Generative AI on different software engi
 
 - Rancher
 
-You can install Rancher by following the [Rancher Quick Start Guide](https://ranchermanager.docs.rancher.com/pages-for-subheaders/quick-start-guide)
+You can install Rancher Desktop by following the [Installation Guide](https://docs.rancherdesktop.io/getting-started/installation/#macos)
+
+Ensure to select "docker (moby)" for docker-compose compatibility
+
+In case of compatibility isseus Administrative Access might be required: Rancher Desktop -> Preferences -> Application -> Administrative Access
 
 ## Setup and Running the Application
 
@@ -25,7 +29,7 @@ git clone git@github.com:rtriska/reactjs_fe_genai_plgrnd.git
 git clone git@github.com:rkoruk/api_docs_genai_plgrnd.git
 ```
 
-### Run Docker Compose
+### Run Rancher
 
 Navigate to the back-end application directory and run:
 
